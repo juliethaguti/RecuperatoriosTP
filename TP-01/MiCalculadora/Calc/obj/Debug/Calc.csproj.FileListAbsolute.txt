@@ -1,0 +1,10 @@
+C:\Users\JulietA\Documents\Visual Studio 2012\Projects\MiCalculadora\Calc\bin\Debug\Calc.dll
+C:\Users\JulietA\Documents\Visual Studio 2012\Projects\MiCalculadora\Calc\bin\Debug\Calc.pdb
+C:\Users\JulietA\Documents\Visual Studio 2012\Projects\MiCalculadora\Calc\obj\Debug\Calc.csprojResolveAssemblyReference.cache
+C:\Users\JulietA\Documents\Visual Studio 2012\Projects\MiCalculadora\Calc\obj\Debug\Calc.dll
+C:\Users\JulietA\Documents\Visual Studio 2012\Projects\MiCalculadora\Calc\obj\Debug\Calc.pdb
+C:\Users\JulietA\Documents\Visual Studio 2012\Projects\TPs\MiCalculadora\Calc\bin\Debug\Calc.dll
+C:\Users\JulietA\Documents\Visual Studio 2012\Projects\TPs\MiCalculadora\Calc\bin\Debug\Calc.pdb
+C:\Users\JulietA\Documents\Visual Studio 2012\Projects\TPs\MiCalculadora\Calc\obj\Debug\Calc.csprojResolveAssemblyReference.cache
+C:\Users\JulietA\Documents\Visual Studio 2012\Projects\TPs\MiCalculadora\Calc\obj\Debug\Calc.dll
+C:\Users\JulietA\Documents\Visual Studio 2012\Projects\TPs\MiCalculadora\Calc\obj\Debug\Calc.pdb
