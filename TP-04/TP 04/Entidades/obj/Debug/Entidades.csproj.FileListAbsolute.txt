@@ -1,0 +1,6 @@
+C:\Users\JulietA\documents\visual studio 2012\Projects\TP-04\TP 04\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\JulietA\documents\visual studio 2012\Projects\TP-04\TP 04\Entidades\bin\Debug\Entidades.dll
+C:\Users\JulietA\documents\visual studio 2012\Projects\TP-04\TP 04\Entidades\bin\Debug\Entidades.pdb
+C:\Users\JulietA\documents\visual studio 2012\Projects\TP-04\TP 04\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\JulietA\documents\visual studio 2012\Projects\TP-04\TP 04\Entidades\obj\Debug\Entidades.dll
+C:\Users\JulietA\documents\visual studio 2012\Projects\TP-04\TP 04\Entidades\obj\Debug\Entidades.pdb

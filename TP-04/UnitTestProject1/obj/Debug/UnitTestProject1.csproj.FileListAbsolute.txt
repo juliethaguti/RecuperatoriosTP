@@ -1,0 +1,7 @@
+C:\Users\JulietA\documents\visual studio 2012\Projects\TP-04\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\JulietA\documents\visual studio 2012\Projects\TP-04\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\JulietA\documents\visual studio 2012\Projects\TP-04\UnitTestProject1\bin\Debug\Entidades.dll
+C:\Users\JulietA\documents\visual studio 2012\Projects\TP-04\UnitTestProject1\bin\Debug\Entidades.pdb
+C:\Users\JulietA\documents\visual studio 2012\Projects\TP-04\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\JulietA\documents\visual studio 2012\Projects\TP-04\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\JulietA\documents\visual studio 2012\Projects\TP-04\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
